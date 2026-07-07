@@ -166,7 +166,7 @@ export const generateWebsite = async (req, res) => {
             return res.status(400).json({ message: "you have not enough credits to generate a webiste" })
         }
 
-        const finalPrompt = masterPrompt.replace("USER_PROMPT", prompt)
+        const finalPrompt = masterPrompt.replace("{USER_PROMPT}", prompt);
         let raw = ""
         let parsed = null
         for (let i = 0; i < 2 && !parsed; i++) {
