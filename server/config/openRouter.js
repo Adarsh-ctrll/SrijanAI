@@ -11,7 +11,19 @@ export const generateResponse = async (prompt) => {
         body: JSON.stringify({
             model: model,
             messages: [
-                { role: "system", content: "You must return ONLY valid raw JSON." }
+                {
+  role: "system",
+  content: `
+You are a world-class frontend architect and UI/UX designer.
+
+Return ONLY valid raw JSON.
+
+Always generate production-quality HTML, CSS and JavaScript.
+
+Never generate tutorial-style websites.
+Never simplify the requested design.
+`
+}
                 ,
                 {
                     role: 'user',
