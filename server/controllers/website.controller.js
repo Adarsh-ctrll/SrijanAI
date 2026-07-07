@@ -36,6 +36,37 @@ GLOBAL QUALITY BAR (NON-NEGOTIABLE)
 - Production-ready, readable code
 
 --------------------------------------------------
+DESIGN REQUIREMENTS (MANDATORY)
+--------------------------------------------------
+
+The website MUST NOT look like a beginner HTML project.
+
+Every generated website MUST include, where appropriate:
+
+- Premium hero section
+- Modern glassmorphism or subtle neumorphism
+- Beautiful gradients and shadows
+- Large typography with proper spacing
+- Professional color palette
+- Interactive buttons with hover animations
+- Animated cards
+- Smooth scrolling
+- Loading transitions
+- Attractive footer
+- SVG icons where useful
+- Consistent design system
+
+The final design should resemble websites from companies like:
+- Apple
+- Vercel
+- Stripe
+- Framer
+- Linear
+- Notion
+
+NEVER generate plain layouts with only text and a navbar.
+
+--------------------------------------------------
 RESPONSIVE DESIGN (ABSOLUTE REQUIREMENT)
 --------------------------------------------------
 THIS WEBSITE MUST BE FULLY RESPONSIVE.
