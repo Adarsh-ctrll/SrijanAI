@@ -8,16 +8,17 @@ SrijanAI is an AI-powered platform that transforms natural language prompts into
 
 ## ✨ Features
 
-- 🤖 AI-powered website generation from text prompts
+- 🤖 AI-powered website generation from natural language prompts
 - 💬 Interactive AI chat assistant
-- ⚡ Live code preview
+- ⚡ Live website preview
 - 📝 Built-in Monaco code editor
-- 🔐 Secure user authentication
-- 💳 Subscription management with Stripe
+- 🚀 One-click website deployment
+- 📊 Analytics dashboard for deployed projects
 - 📂 Project management dashboard
-- 📱 Fully responsive interface
-- ☁️ Cloud-based deployment
-
+- 🔐 Secure authentication with Firebase
+- 💳 Stripe subscription & billing
+- 📱 Fully responsive modern UI
+- ☁️ Cloud-based project storage
 ---
 
 ## 🛠 Tech Stack
