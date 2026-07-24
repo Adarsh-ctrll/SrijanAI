@@ -121,12 +121,12 @@ SrijanAI/
 
 ## 🔮 Future Enhancements
 
-- 🌍 One-click deployment to custom domains
-- 🎨 Drag-and-drop website editor
-- 🧠 Multi-model AI support (GPT, Claude, Gemini)
-- 🤝 Team collaboration
-- 📈 SEO optimization
-- 📊 Analytics dashboard
+- 🤝 Team collaboration & shared workspaces
+- 🎨 Drag-and-drop visual editor
+- 🧠 Support for multiple AI models (GPT, Claude, Gemini)
+- 📱 Progressive Web App (PWA)
+- 🌍 Multi-language support
+- 📚 AI template marketplace
 
 ---
 
